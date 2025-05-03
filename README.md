@@ -13,7 +13,7 @@
 ## Overview
 This project aims to analyze and visualize the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
 
-## [Reports](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/tree/main/reports)
+## [Reports](https://github.com/predict-future-time/Sales-for-Retail-and-Food-Services/tree/main/reports)
 ## Project Structure
 
     ├── LICENSE
@@ -45,7 +45,7 @@ To facilitate data management and analysis, a SQL database has been created to s
 
 ## Data Processing
 The data obtained from the U.S. government website might require some preprocessing to clean and transform it into a suitable format for analysis. SQL queries have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
-![NAICS](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/assets/66141195/c897f5c5-e4ce-446f-8944-c0c0376fcee9)
+
 
 
 
@@ -75,6 +75,11 @@ The data obtained from the U.S. government website might require some preprocess
 
 **Conclusion**
 The Sales for Retail and Food Services in U.S.A. project provides a comprehensive analysis of sales data within the Retail and Food Services sectors. The use of SQL and data from the U.S. government website ensures data accuracy and reliability. The interactive dashboard offers a user-friendly interface to explore the data visually and gain valuable insights. This project is valuable for businesses, policymakers, and researchers looking to understand and leverage sales trends in the U.S.A.
+
+![image](https://github.com/user-attachments/assets/94e04424-a618-4614-b689-3a79096cf0d4)
+
+![image](https://github.com/user-attachments/assets/1a1ac3fe-ed98-4171-8829-7241939cf814)
+
 
 
 
